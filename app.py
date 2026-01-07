@@ -57,7 +57,8 @@ if retrain_btn:
     with st.spinner("Training model... Please wait ⏳"):
         subprocess.run(["python", "final.py"])
     st.success("✅ Model retrained successfully!")
-    st.experimental_rerun()
+    st.rerun()
+
 
 # --------------------
 # Tabs
