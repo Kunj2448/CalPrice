@@ -1,0 +1,11 @@
+# Ignore model files
+model/
+*.pkl
+
+# Ignore cache
+__pycache__/
+*.pyc
+
+# Ignore local outputs
+data/output.csv
+data/history.csv
