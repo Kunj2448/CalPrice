@@ -80,34 +80,36 @@ PROJECT/
 ## ⚙️ Installation
 
 ### Step 1 — Clone Repository
-
-git clone <your-repository-url>  
+```
+git clone (https://github.com/Kunj2448/CalPrice.git) 
 cd your-project-folder
-
+```
 ---
 
 ### Step 2 — Create Virtual Environment (Recommended)
 
 Windows:
+```
 python -m venv venv  
 venv\Scripts\activate  
-
+```
 Mac/Linux:
+```
 python -m venv venv  
 source venv/bin/activate  
-
+```
 ---
 
 ### Step 3 — Install Dependencies
-
+```
 pip install -r requirements.txt
-
+```
 ---
 
 ## 🧠 Train the Model
-
+```
 python train_model.py
-
+```
 This will:
 - Train the ML model
 - Evaluate performance
@@ -118,20 +120,20 @@ This will:
 ---
 
 ## ▶️ Run the Application
-
+```
 streamlit run app.py
-
+```
 The web browser will open automatically.
 
 ---
 
 ## 📊 Sample Model Performance
-
+```
 R2 Score : 0.8184  
 Accuracy (%) : 81.84%  
 MAE : 31465.25  
 RMSE : 48781.91  
-
+```
 ---
 
 ## 📂 Bulk Prediction CSV Format
