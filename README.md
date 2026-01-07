@@ -105,7 +105,7 @@ pip install -r requirements.txt
 
 ## 🧠 Train the Model
 
-python final.py
+python train_model.py
 
 This will:
 - Train the ML model
