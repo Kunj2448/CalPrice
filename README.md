@@ -81,7 +81,7 @@ PROJECT/
 
 ### Step 1 — Clone Repository
 ```
-git clone (https://github.com/Kunj2448/CalPrice.git) 
+git clone https://github.com/Kunj2448/CalPrice.git
 cd your-project-folder
 ```
 ---
