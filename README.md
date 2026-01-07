@@ -50,7 +50,6 @@ This project is suitable for academic learning, portfolio showcase, hackathons, 
 ---
 
 ## 📁 Project Structure
-## 📁 Project Structure
 
 ```
 PROJECT/
